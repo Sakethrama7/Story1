@@ -1,0 +1,1 @@
+It was the chapter one opened using terminal in vs code. 
